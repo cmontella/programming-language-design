@@ -17,3 +17,4 @@
 - [Dart programming language design](http://www.johndcook.com/blog/2012/04/14/dart-programming-language-design/)
 - [The Ruby programming language needs a design process](http://brixen.io/2012/12/11/a-ruby-design-process/)
 - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
+- [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
