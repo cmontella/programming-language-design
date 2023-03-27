@@ -18,3 +18,6 @@
 - [The Ruby programming language needs a design process](http://brixen.io/2012/12/11/a-ruby-design-process/)
 - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 - [Syntax Design](https://cs.lmu.edu/~ray/notes/syntaxdesign/)
+- [Glamorize Your Problem Domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
+- [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
+- [Technical dimensions of programming systems](https://tomasp.net/techdims/)
