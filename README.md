@@ -21,3 +21,4 @@
 - [Glamorize Your Problem Domain](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
 - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 - [Technical dimensions of programming systems](https://tomasp.net/techdims/)
+- [Checklist](https://myrlang.org/lang-checklist)
