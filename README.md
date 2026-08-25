@@ -22,3 +22,4 @@
 - [How Big Should a Programming Language Be?](https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html)
 - [Technical dimensions of programming systems](https://tomasp.net/techdims/)
 - [Programming Language Checklist](https://www.mcmillen.dev/language_checklist.html)
+- [Why Agent Edits Need Semantic Identity: Building SEMAPRAX in Rust](https://wavect.io/blog/semantic-identity-rust-agent-edits/)
